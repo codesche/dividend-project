@@ -54,4 +54,4 @@
 12. ✅ 레디스에 데이터 캐싱/삭제하기
 13. ✅ 적합한 로그레벨로 필요한 로그 남기기
 14. ✅ ControllerAdvice 에서 에러 처리하기
-15. ✅ Swagger 활용하여 API 리스트 구성
+15. ✅ Swagger 활용하여 API 리스트 구성 (Optional Add)
